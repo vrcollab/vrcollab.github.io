@@ -1,6 +1,6 @@
 # About
 
-Here come with VRcollab Research Products.
+Here come with VRcollab Research Products and Projects.
 Contact us at info@vrcollab.com if you are interested in.
 
 ::::{grid}
